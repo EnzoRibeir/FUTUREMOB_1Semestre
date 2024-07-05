@@ -20,7 +20,7 @@ Inspirados pelas obras icônicas de Oscar Niemeyer, desenvolvemos a FUTUREMOB pa
 
 Nosso site está praticamente pronto! Trabalhamos arduamente no front-end, que está impecável, e já temos algumas funcionalidades básicas no back-end.
 
-[Clique aqui para abrir o site da FUTUREMOB](#)
+[Clique aqui para abrir o site da FUTUREMOB](https://enzoribeir.github.io/FUTUREMOB/pagina-inicial.html)
 
 ## 📱 O App
 
