@@ -20,7 +20,7 @@ Nosso site está praticamente pronto! Trabalhamos arduamente no front-end, que e
 
 ## 📱 O App
 
-Desenvolvemos o aplicativo da FUTUREMOB no PowerApps. Ele já possui quase todas as funcionalidades necessárias, exceto pela parte de confirmação de pagamento (afinal, é só uma demo!).
+Desenvolvemos o aplicativo da FUTUREMOB no PowerApps. Ele já possui quase todas as funcionalidades necessárias, exceto pela parte de confirmação de pagamento (afinal, é só uma demo!). Use teste02@gmail.com Senha:123456 para logar!
 
 [Clique aqui para abrir o app da FUTUREMOB](https://apps.powerapps.com/play/e/default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f/a/955ad691-9378-4a22-8eb6-933ac9578e1d?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&sourcetime=1720223994550)
 
