@@ -1,6 +1,6 @@
 # 🛋️ FUTUREMOB - O Aconchego no Elegante
 
-Bem-vindos ao repositório oficial do nosso Projeto Interdisciplinar da FATEC! Somos um time de 6 mentes brilhantes que se uniram para criar a FUTUREMOB, a loja fictícia de móveis futurísticos mais elegante e tecnológica que você já viu. 
+Bem-vindos ao repositório do nosso Projeto Interdisciplinar da FATEC! Somos um time de 6 mentes brilhantes que se uniram para criar a FUTUREMOB, a loja fictícia de móveis futurísticos mais elegante e tecnológica que você já viu. 
 
 ## 🌟 Sobre a FUTUREMOB
 
