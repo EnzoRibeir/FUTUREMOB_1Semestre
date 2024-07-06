@@ -8,7 +8,7 @@ Inspirados pelas obras icônicas de Oscar Niemeyer, desenvolvemos a FUTUREMOB pa
 
 ### 🛠️ O que você encontrará aqui?
 
-- **História e Valores da Empresa**: Conheça mais sobre a origem da FUTUREMOB e os princípios que nos guiam [aqui](file:///C:/Users/Mandrakk/Downloads/FATEC_Projeto_Integrado-main%20(1)/FATEC_Projeto_Integrado-main/docs/sobre.html)
+- **História e Valores da Empresa**: Conheça mais sobre a origem da FUTUREMOB e os princípios que nos guiam [aqui](https://enzoribeir.github.io/FUTUREMOB/sobre.html)
 - **Logo e Banner**: Veja o nosso visual arrojado, com o slogan "o aconchego no elegante" [aqui](https://drive.google.com/file/d/1uLMaKyAQGTzgzs7u4ThpemXkjALWATCA/view?usp=sharing).
 - **Catálogo de Produtos**: Uma seleção exclusiva de móveis futurísticos [aqui](https://drive.google.com/drive/folders/1MXVua0dxOJaMnRPyraDdCUMDNqgXrpNQ?usp=sharing)
 
