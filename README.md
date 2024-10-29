@@ -8,7 +8,7 @@ Inspirados pelas obras icônicas de Oscar Niemeyer, desenvolvemos a FUTUREMOB pa
 
 ### 🛠️ O que você encontrará aqui?
 
-- **História e Valores da Empresa**: Conheça mais sobre a origem da FUTUREMOB e os princípios que nos guiam [aqui](https://enzoribeir.github.io/FUTUREMOB/sobre.html)
+- **História e Valores da Empresa**: Conheça mais sobre a origem da FUTUREMOB e os princípios que nos guiam [aqui](https://enzoribeir.github.io/FUTUREMOB_1Semestre/sobre.html)
 - **Logo e Banner**: Veja o nosso visual arrojado, com o slogan "o aconchego no elegante" [aqui](https://drive.google.com/file/d/1uLMaKyAQGTzgzs7u4ThpemXkjALWATCA/view?usp=sharing).
 - **Catálogo de Produtos**: Uma seleção exclusiva de móveis futurísticos [aqui](https://drive.google.com/drive/folders/1MXVua0dxOJaMnRPyraDdCUMDNqgXrpNQ?usp=sharing)
 
@@ -16,7 +16,7 @@ Inspirados pelas obras icônicas de Oscar Niemeyer, desenvolvemos a FUTUREMOB pa
 
 Nosso site está praticamente pronto! Trabalhamos arduamente no front-end, que está impecável, e já temos algumas funcionalidades básicas no back-end.
 
-[Clique aqui para abrir o site da FUTUREMOB](https://enzoribeir.github.io/FUTUREMOB/pagina-inicial.html)
+[Clique aqui para abrir o site da FUTUREMOB](https://enzoribeir.github.io/FUTUREMOB_1Semestre/pagina-inicial.html)
 
 ## 📱 O App
 
